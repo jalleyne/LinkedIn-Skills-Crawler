@@ -760,6 +760,7 @@ Terminology
 Termite
 TerraSync
 Terracotta
+Terraform
 Terragen
 Terrain Modeling
 Terramodel
